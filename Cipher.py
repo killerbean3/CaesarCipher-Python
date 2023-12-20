@@ -1,4 +1,4 @@
-#@killerbean3 Github
+#GitHub - @killerbean3 - CaesarCipher-Python
 from string import punctuation
 from itertools import cycle
 print("""Instuctions for this encryption/decryption
